@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Amazon Product Scraper</title>
 </head>
 <body>
 
@@ -88,7 +87,7 @@ cd Amazon-Product-Scraper
 
   <p>Watch a demo of the Amazon Product Scraper in action:</p>
 
-  <video width="560" height="315" src="https://www.youtube.com/embed/HD-ajtcCseM?si=ThNNRg4EZo1TWxm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+  [![Veja o vídeo no YouTube](https://img.youtube.com/vi/HD-ajtcCseM/maxresdefault.jpg)](https://www.youtube.com/watch?v=HD-ajtcCseM)
 
   <h3>📝 Usage</h3>
   <ul>
