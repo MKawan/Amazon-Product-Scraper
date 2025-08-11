@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Amazon Scraper</title>
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="main.ts"></script>
+  </head>
+  <body>
+<div class="container">
+    <div class="container-header">
+      <div class="container-title">
+      <img src="https://www.pngall.com/wp-content/uploads/15/Amazon-Logo-White-PNG.png" 
+        alt="Amazon Scraper Logo" 
+        width="100px"
+      />
+        <h1>Amazon Product Scraper</h1>
+      </div>
+    </div>
+
+    <input type="text" id="keywordInput" placeholder="Enter search keyword (e.g., laptop)" />
+    <button id="scrapeButton">Search</button>
+
+    <!-- Loading spinner container -->
+    <div id="loading" style="display:none; text-align:center; margin: 10px 0;">
+      <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." width="50" />
+      <div>Loading...</div>
+    </div>
+
+    <div id="results" class="results"></div>
+    <div id="error" class="error"></div>
+
+    <!-- Pagination buttons -->
+    <div class="container-pagination">
+      <button id="prevPage" disabled>Back</button>
+      <span id="pageNumber" style="margin: 0 15px; font-weight: bold;">Page 1</span>
+      <button id="nextPage" disabled>Next</button>
+    </div>
+  </div>
+  </body>
+</html>
