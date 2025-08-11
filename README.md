@@ -74,7 +74,11 @@ The **Amazon Product Scraper** is a full-stack web scraping application designed
      ```bash
      bun run dev
      ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HD-ajtcCseM?si=S3_T_nDkTCT9w4JW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Demo
+
+Watch a demo of the Amazon Product Scraper in action:
+
+[![Amazon Product Scraper Demo](https://img.youtube.com/vi/HD-ajtcCseM/maxresdefault.jpg)](https://www.youtube.com/watch?v=HD-ajtcCseM)
 
 ### Usage
 
